@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "いつか空に届いて",
+  "base_artist": "椎名恵",
+  "createdAt": "2025-12-03T13:29:02.994970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつか空に届いて",
+      "artist": "椎名 恵",
+      "has_synced": true,
+      "path": "select/01_いつか空に届いて_椎名_恵.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Itsuka Sora ni Todoite [いつか空に届いて]",
+      "artist": "Megumi Shiina",
+      "has_synced": true,
+      "path": "select/02_Itsuka_Sora_ni_Todoite_[いつか空に届いて]_Megumi_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつか空に届いて",
+      "artist": "Megumi Shiina",
+      "has_synced": true,
+      "path": "select/03_いつか空に届いて_Megumi_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつか空に届いて",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/04_いつか空に届いて_GUNDAM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつか空に届いて",
+      "artist": "椎名恵",
+      "has_synced": true,
+      "path": "select/05_いつか空に届いて_椎名恵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつか空に届いて",
+      "artist": "椎名 恵",
+      "has_synced": false,
+      "path": "select/pl_01_いつか空に届いて_椎名_恵.txt"
+    }
+  ]
+}

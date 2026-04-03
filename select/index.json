@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "いつか空に届いて",
   "base_artist": "椎名恵",
-  "createdAt": "2025-12-03T13:29:02.994970Z",
+  "createdAt": "2026-04-03T15:56:00.785089Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "椎名恵",
       "has_synced": true,
       "path": "select/05_いつか空に届いて_椎名恵.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつか空に届いて (OVA 『機動戦士ガンダム0080 ポケットの中の戦争』 より)",
+      "artist": "椎名恵",
+      "has_synced": true,
+      "path": "select/06_いつか空に届いて_(OVA_『機動戦士ガンダム0080_ポケットの中の戦争』_より)_椎名恵.lrc"
     },
     {
       "id": "petitlyrics_1",
